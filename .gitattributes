@@ -1,0 +1,18 @@
+# Text files (LF)
+.bash_profile       text eol=lf
+.bashrc             text eol=lf
+.editorconfig       text eol=lf
+.gitattributes      text eol=lf
+.gitignore          text eol=lf
+.profile            text eol=lf
+*.bash              text eol=lf
+*.html              text eol=lf
+*.md                text eol=lf
+*.sh                text eol=lf
+*.txt               text eol=lf
+
+# Text files (CRLF)
+*.bat               text eol=crlf
+*.cmd               text eol=crlf
+*.jse               text eol=crlf
+*.vbs               text eol=crlf
